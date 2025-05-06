@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      <h1>Romit's React App</h1>
+      <h1>Romit's React App.</h1>
     </>
   )
 }
